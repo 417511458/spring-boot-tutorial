@@ -1,4 +1,4 @@
-package org.srping.boot.tutorial.first;
+package org.srping.boot.tutorial.helloword;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

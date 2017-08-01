@@ -8,7 +8,7 @@
 		<artifactId>spring-boot-tutorial</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>srping-boot-tutorial-first</artifactId>
+	<artifactId>srping-boot-tutorial-helloword</artifactId>
 	<name>srping-boot-tutorial-first</name>
 	<description>springboot教程一，Hello word!</description>
 	<url>http://maven.apache.org</url>

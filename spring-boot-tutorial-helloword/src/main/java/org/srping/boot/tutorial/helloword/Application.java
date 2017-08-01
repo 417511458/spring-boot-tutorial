@@ -1,4 +1,4 @@
-package org.srping.boot.tutorial.first;
+package org.srping.boot.tutorial.helloword;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
