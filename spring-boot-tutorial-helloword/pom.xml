@@ -4,12 +4,13 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.majunwei</groupId>
-		<artifactId>spring-boot-tutorial</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.6.RELEASE</version>
 	</parent>
-	<artifactId>srping-boot-tutorial-helloword</artifactId>
-	<name>srping-boot-tutorial-first</name>
+	<groupId>com.majunwei</groupId>
+	<artifactId>spring-boot-tutorial-helloword</artifactId>
+	<name>spring-boot-tutorial-first</name>
 	<description>springboot教程一，Hello word!</description>
 	<url>http://maven.apache.org</url>
 	<properties>
