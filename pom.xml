@@ -23,5 +23,6 @@
 		<module>srping-boot-tutorial-helloword</module>
     <module>spring-boot-tutorial-executable</module>
     <module>spring-boot-tutorial-non-executable</module>
+    <module>spring-boot-tutorial-war</module>
   </modules>
 </project>
