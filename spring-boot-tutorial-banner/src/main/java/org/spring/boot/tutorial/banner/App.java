@@ -14,7 +14,6 @@ public class App
     public static void main( String[] args )
     {
     	SpringApplication application = new SpringApplication(App.class);
-    	application.setBanner(new CustomBanner());
     	application.setBannerMode(Banner.Mode.CONSOLE);
     	application.run(args);
     	
